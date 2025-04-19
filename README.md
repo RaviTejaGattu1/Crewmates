@@ -1,6 +1,6 @@
 # Web Development Project 7 - *Crewmates*
 
-Submitted by: **Ravi Teja Gattu*
+Submitted by: **Ravi Teja Gattu**
 
 This web app: **Crewmatesn**
 
