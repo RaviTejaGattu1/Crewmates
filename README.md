@@ -53,6 +53,8 @@ Here's a walkthrough of implemented user stories:
 
 https://github.com/user-attachments/assets/e9b73642-1cdc-4a79-9722-ee6e65d927fa
 
+![DemoLQ](https://github.com/user-attachments/assets/1348cb46-5c87-4583-b422-8d1bbedf162e)
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
